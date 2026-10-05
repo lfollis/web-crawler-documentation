@@ -31,5 +31,5 @@ A Python-based website crawler designed to audit large websites for specific tex
 - [architecture](architecture.md)
 
 ## Screenshots
-- [excel-output](Screenshots/excel-output)
-- [terminal-complete](Screenshots/terminal-complete)
+- [excel-output](Screenshots/excel-output.png)
+- [terminal-complete](Screenshots/terminal-complete.png)
