@@ -27,9 +27,9 @@ A Python-based website crawler designed to audit large websites for specific tex
 - Legacy content cleanup
 
 ## Documentation
-- setup-guide.md
-- architecture.md
+- [setup-guide] (setupguid.md)
+- [architecture] (architecture.md)
 
 ## Screenshots
-- /Screenshots/excel-output
-- /Screenshots/terminal-complete
+- [excel-output] (Screenshots/excel-output)
+- [terminal-complete] (Screenshots/terminal-complete)
