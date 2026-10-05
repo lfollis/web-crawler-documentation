@@ -25,3 +25,11 @@ A Python-based website crawler designed to audit large websites for specific tex
 - Content reviews
 - Brand mention detection
 - Legacy content cleanup
+
+## Documentation
+- setup-guide.md
+- architecture.md
+
+## Screenshots
+- /Screenshots/excel-output
+- /Screenshots/terminal-complete
